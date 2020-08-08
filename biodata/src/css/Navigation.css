@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rufina:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.logo{
+    font-size: 2rem;
+    font-family: 'Rufina', serif;
+    color: #152136;
+}
+
+.logo span{
+    color: #FF4A57;
+}
+
+.navbar {
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-family: 'Roboto', serif;
+    font-weight: 700;
+}
+
+.navigation {
+    padding: 40px 30px ;
+}
